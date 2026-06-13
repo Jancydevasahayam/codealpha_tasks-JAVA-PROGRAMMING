@@ -1,0 +1,9 @@
+
+[2026-06-13 11:15:44] User: hi
+[2026-06-13 11:15:44] Bot: Welcome back. Ask me a question or type help for commands.
+[2026-06-13 11:16:30] User: what is java?
+[2026-06-13 11:16:30] Bot: Java is a high-level, object-oriented programming language known for platform independence through the JVM. (Matched with 100% confidence)
+[2026-06-13 11:16:39] User: how to download jdk
+[2026-06-13 11:16:39] Bot: I am still learning. Try asking in another way, or teach me with the learn command.
+[2026-06-13 11:16:57] User: commands to download java
+[2026-06-13 11:16:57] Bot: That is outside my current knowledge base. Type help to see what I can do.
